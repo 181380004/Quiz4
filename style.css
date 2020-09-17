@@ -1,12 +1,37 @@
-.icon-date{
-    color:pink;
-    font-size:20px;
+{
+    margin:0;
+    padding: 0;
+    font-family: 'Rubik' , sans-serif;
 }
-.item-title{
-    font-size:22px;
-    font-weight:100;
+body,html{
+    height: 100%;
+    scroll-behavior: smooth;
 }
-.text-grey{
-    color: #777777;
+
+
+.bg-icon{
+    
+    height: 100px;
+    width: 100px;
+    font-size:64px;
+    border-radius:100px;
 }
-   
+.icon-color{
+    color:rgb(247, 4, 97);
+}
+.blog-title{
+    font-size: 18px;
+    font-weight: 100;
+}
+.title-text{
+    font-size: 64px;
+    font-weight: 900;
+}
+
+
+.section-text{
+    font-size: 32px;
+}
+.service-p{
+    font-size: 20px;
+}
